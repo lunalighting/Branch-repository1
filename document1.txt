@@ -35,15 +35,27 @@ result = [1, 2, 2, 4, 4, 5, 6, 6, 7, 8]
 print(quicksort(0, len(example)-1, example))
 
 
-This is gonna hurt
-but I blame myself first
-Cause I ignored the truth
-Drunk off that love, my head up
-There's no forgetting you
-You've awoken me,
-but you're choking me
-I was so obsessed
-Gave you all of me,
-and now honestly,
-I got nothing left
-따라라ㅏ라라라라ㅏ라라
+Get her name and get her number
+Find out all of the things that we have in common
+Never all the differences, oh, yeah
+Meet her parents, meet her brother
+Then she starts sleepin' over the crib on weekends
+Like a real relationship, oh, no
+For me, the stars are alignin'
+But for her, it's bad timin'
+So she just can't be mine
+I don't think that I like her anymore
+'Cause they're all the same
+All they wanna do is break my heart, my heart (Oh-oh)
+I don't think that I like her anymore
+'Cause they're all the same
+They just wanna see me fall apart, apart (Oh-oh)
+So I hook up on a rebound
+And I say that I'm gonna be single for life
+But she's so pretty and nice (Pretty and nice)
+So I made just one exception
+But I find out eventually I'm not her type
+Baby, that's the reason why, that
+For me, the stars are alignin'
+But for her, it's bad timin'
+So she just can't be mine
