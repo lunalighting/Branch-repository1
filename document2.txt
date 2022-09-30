@@ -110,3 +110,18 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+
+And you left without a sound
+Baby, baby, tell me how
+How do you love somebody?
+How do you love somebody else?
+'Cause when you left I lost myself
+Baby, baby, tell me how
+How do you love somebody?
+How do you numb the pain so well?
+’Cause when you left I lost myself
+How do you love somebody else?
+I just don’t get it, how you left so quick
+Just fifteen minutes, now you textin' him
+I just don’t get, how you left so quick
+You broke my heart and I'm a mess again
